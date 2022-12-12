@@ -24,6 +24,7 @@ public class RecycleViewExample extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_recycle_view_example);
         contactlist = findViewById(R.id.contactlist);
+
         List<Contact> list = new ArrayList<Contact>();
         list.add(new Contact("pankaj","999999","pankaj@gmail.com"));
         list.add(new Contact("rakhi","96669999","rakhi@gmail.com"));
