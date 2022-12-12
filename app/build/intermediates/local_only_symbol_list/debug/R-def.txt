@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_action_call
+drawable ic_action_msg
+drawable ic_action_person
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id contactlist
+id email
+id listnumber
+id mail
+id name
+id number
+layout activity_main
+layout activity_recycle_view_example
+layout contact_row
+layout listperson
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.MsgEmail_callActivity
+xml backup_rules
+xml data_extraction_rules
